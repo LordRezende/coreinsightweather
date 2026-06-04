@@ -1,4 +1,4 @@
-const url = "https://script.google.com/macros/s/AKfycbwu4wMoN-NJn18IOA88MovQluToZtDZbaTNVuAodLDqB5lZq5FabDx5Bu58c3xDZxrp/exec"; // Substitua pela sua URL final
+const url = "https://script.google.com/macros/s/AKfycbwu4wMoN-NJn18IOA88MovQluToZtDZbaTNVuAodLDqB5lZq5FabDx5Bu58c3xDZxrp/exec";
 let dadosOriginais = [];
 let dadosFiltrados = [];
 
