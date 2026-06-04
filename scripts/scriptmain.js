@@ -1,4 +1,4 @@
-const url = "https://script.google.com/macros/s/AKfycbzeUOxknnnTCk42rqdpqHBVHJSVy7Xc6_cRY08DmpDqxwKTNW4ufvWBh4MXRVA_KI7c/exec"; // troque pelo seu
+const url = "https://script.google.com/macros/s/AKfycbzeUOxknnnTCk42rqdpqHBVHJSVy7Xc6_cRY08DmpDqxwKTNW4ufvWBh4MXRVA_KI7c/exec";
 
     fetch(url)
       .then(res => res.json())
